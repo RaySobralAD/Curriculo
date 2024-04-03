@@ -4,7 +4,7 @@
 🏠 Praia Grande / SP <br>
 📱  <a href="https://api.whatsapp.com/send?phone=5513997019227">(13) 99701-9227</a> <br>
 ✉️  <a href="mailto:raycristinaAD@gmail.com">raycristinaad@gmail.com</a> <br>
-Meu nome é Rayssa Sobral, Estudo para me tornar Desenvolvedora Web,  apaixonado por Front End e HTML, com grande interesse em Javascript e Bootstrap e Web Design. Tenho como hobbies trabalhar em ilustrações, Ler e Desenvolver Protótipos de sites utilizando o Figma e os passar para WordPress.
+Meu nome é Rayssa Sobral, Estudo para me tornar Desenvolvedora Web,  apaixonada por Front End e HTML, com grande interesse em Javascript e Bootstrap e Web Design. Tenho como hobbies trabalhar em ilustrações, Ler e Desenvolver Protótipos de sites utilizando o Figma e os passar para WordPress.
 <strong> Determinada a aprender mais e mais </strong>
 
 ## Formação
