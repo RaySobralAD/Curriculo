@@ -73,6 +73,6 @@ Instituto Centro Paula Souza <strong> Etec de Praia Grande - Extensão </strong>
 * [CFA Ocian Praia clube](https://cfaocianpraiaclube.com.br)
 
 ## Redes Sociais
-*  [Linkedin](https://www.linkedin.com/in/guilherme-botingnon-a032a3278/)
+*  [Linkedin](https://www.linkedin.com/in/rayssa-sobral-a9b882301/)
 
 <br><br>
