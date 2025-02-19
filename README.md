@@ -1,5 +1,5 @@
 <h1> Rayssa Sobral </h1>
-<strong> Buscando a oportunidade para ser Desenvolvedora Front-end / Web Designer. <br> </strong>
+<strong> Buscando oportunidades na area de Desenvolvimento Front-end <br> </strong>
 <hr>
 🏠 Praia Grande / SP <br>
 📱  <a href="https://api.whatsapp.com/send?phone=5513997019227">(13) 99701-9227</a> <br>
