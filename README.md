@@ -1,11 +1,11 @@
 <h1> Rayssa Sobral </h1>
-<strong> Buscando a oportunidade para ser Desenvolvedora Web / Web Designer. <br> </strong>
+<strong> Buscando a oportunidade para ser Desenvolvedora Front-end / Web Designer. <br> </strong>
 <hr>
 🏠 Praia Grande / SP <br>
 📱  <a href="https://api.whatsapp.com/send?phone=5513997019227">(13) 99701-9227</a> <br>
 ✉️  <a href="mailto:raycristinaAD@gmail.com">raycristinaad@gmail.com</a> <br>
-Meu nome é Rayssa Sobral, Estudo para me tornar Desenvolvedora Web,  apaixonada por Front End e HTML, com grande interesse em Javascript e Bootstrap e Web Design. Tenho como hobbies trabalhar em ilustrações, Ler e Desenvolver Protótipos de sites utilizando o Figma e os passar para WordPress.
-<strong> Determinada a aprender mais e mais </strong>
+Meu nome é Rayssa Sobral, Estudo para me tornar Desenvolvedora, apaixonada por Front End e HTML, com grande interesse em E-Commerce e Web Design. Tenho como hobbies trabalhar em ilustrações e desenvolver Protótipos de sites utilizando o Figma.
+<strong>  </strong>
 
 ## Formação
 Instituto Centro Paula Souza <strong> Etec de Praia Grande - Extensão </strong> - Técnico em Informática para Internet <br>
@@ -43,7 +43,7 @@ Instituto Centro Paula Souza <strong> Etec de Praia Grande - Extensão </strong>
 | Desenvolvimento do Trabalho de Conclusão de Curso (TCC) em Informática para Internet| 3º   |
 
 ## Experência Profissional
-* Procurando Embarcar no Mercado de Trabalho.
+* Desenvolvedora Front-End, Pitico Studio Design (6 meses)
 ## Conhecimentos
 
 ### Gerais
@@ -58,8 +58,9 @@ Instituto Centro Paula Souza <strong> Etec de Praia Grande - Extensão </strong>
 * CSS (Design Responsivo).
 * JavaScript
 
+
 ### Frameworks Front-end
-* Bootstrap
+* Angular
 
 ### Linguagens de Programação
 * JavaScript.
